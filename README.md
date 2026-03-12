@@ -188,11 +188,6 @@ I generated PlantUML files for ERD and Class Diagram:
 - `erd-diagram.puml`
 - `class-diagram.puml`
 
-To render diagrams:
-1. Open http://www.plantuml.com/plantuml/uml/
-2. Paste the file content
-3. Export as PNG
-
 ---
 
 ## Validation and Error Handling

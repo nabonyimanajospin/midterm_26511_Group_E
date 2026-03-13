@@ -93,16 +93,16 @@
 This project follows the standard **Controller → Service → Repository** layered pattern:
  
 ```
-HTTP Request
-     │
-     ▼
+  HTTP Request
+       │
+       ▼
 ┌─────────────┐
-│  Controller  │  ← Handles HTTP requests & responses
+│  Controller │  ← Handles HTTP requests & responses
 └──────┬──────┘
        │
        ▼
 ┌─────────────┐
-│   Service    │  ← Business logic, validation & mapping
+│   Service   │  ← Business logic, validation & mapping
 └──────┬──────┘
        │
        ▼

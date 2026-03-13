@@ -1,0 +1,1930 @@
+UUIDS FOR PROVINCES
+____________________
+
+Kigali UUID: 
+{
+    "id": "05d41f9a-2fd5-4309-969f-52b8f6ed4e79",
+    "code": "P01",
+    "name": "Kigali City",
+    "type": "PROVINCE"
+}
+
+Eastern UUID: 
+{
+    "id": "e430f041-7714-4528-bd4a-ecebd32c7672",
+    "code": "P02",
+    "name": "Eastern Province",
+    "type": "PROVINCE"
+}
+
+Northern UUID:
+{
+    "id": "f45fa5af-9493-4da9-a661-345dad25f865",
+    "code": "P03",
+    "name": "Northern Province",
+    "type": "PROVINCE"
+}
+
+Southern UUID:
+{
+    "id": "cd94f516-1c5b-4142-bc79-ebb41eb8db3b",
+    "code": "P04",
+    "name": "Southern Province",
+    "type": "PROVINCE"
+}
+
+Western UUID:
+{
+    "id": "0d10acb1-c732-4368-95c5-e6f2f7c1e90c",
+    "code": "P05",
+    "name": "Western Province",
+    "type": "PROVINCE"
+}
+
+
+
+
+UUIDS FOR DISTRICTS
+____________________
+Gasabo UUID:
+{
+    "id": "d054ce4c-1480-4744-bdfa-3b4163c67268",
+    "code": "D01",
+    "name": "Gasabo",
+    "type": "DISTRICT"
+}
+
+Kicukiro UUID:
+{
+    "id": "0c1d5ff7-b727-4f1f-99b8-167644621481",
+    "code": "D02",
+    "name": "Kicukiro",
+    "type": "DISTRICT"
+}
+
+Nyarugenge UUID:
+{
+    "id": "bef2b91c-1074-4f3e-9918-9c9d179c498b",
+    "code": "D03",
+    "name": "Nyarugenge",
+    "type": "DISTRICT"
+}
+
+Bugesera UUID:
+{
+    "id": "968fb3db-dd76-4a75-aa87-433e44197b9d",
+    "code": "D04",
+    "name": "Bugesera",
+    "type": "DISTRICT"
+}
+
+Gatsibo UUID:
+{
+    "id": "d62bcda3-a852-424c-a58b-1f8c67183c07",
+    "code": "D05",
+    "name": "Gatsibo",
+    "type": "DISTRICT"
+}
+
+Kayonza UUID:
+{
+    "id": "5e4bdb4e-ffc9-4a5d-9807-2e70c6c5f817",
+    "code": "D06",
+    "name": "Kayonza",
+    "type": "DISTRICT"
+}
+
+Kirehe UUID:
+{
+    "id": "e0b785ab-227c-467c-8229-873096176f57",
+    "code": "D07",
+    "name": "Kirehe",
+    "type": "DISTRICT"
+}
+
+Ngoma UUID:
+{
+    "id": "7a244667-3bfb-4e58-9c98-71064ff25781",
+    "code": "D08",
+    "name": "Ngoma",
+    "type": "DISTRICT"
+}
+
+Nyagatare UUID:
+{
+    "id": "3fa3c45c-4bbd-4628-b1b7-cd73fb73141a",
+    "code": "D09",
+    "name": "Nyagatare",
+    "type": "DISTRICT"
+}
+
+Rwamagana UUID:
+{
+    "id": "99e095c1-0e3f-4a18-952e-ff2539a407ab",
+    "code": "D10",
+    "name": "Rwamagana",
+    "type": "DISTRICT"
+}
+
+Burera UUID:
+{
+    "id": "374aaa41-ba79-42e9-9369-bf6bca42c221",
+    "code": "D11",
+    "name": "Burera",
+    "type": "DISTRICT"
+}
+
+Gakenke UUID:
+{
+    "id": "bd8e638d-af73-4500-842a-aad58611c9e3",
+    "code": "D12",
+    "name": "Gakenke",
+    "type": "DISTRICT"
+}
+
+Gicumbi UUID:
+{
+    "id": "da083870-7de5-45d9-9f37-6596d3ea2bc1",
+    "code": "D13",
+    "name": "Gicumbi",
+    "type": "DISTRICT"
+}
+
+Musanze UUID:
+{
+    "id": "f2af8cf3-ad54-4e03-b073-bbfd30802b84",
+    "code": "D14",
+    "name": "Musanze",
+    "type": "DISTRICT"
+}
+
+Rulindo UUID:
+{
+    "id": "e537aab1-2c8c-4129-a173-82d13ce0710f",
+    "code": "D15",
+    "name": "Rulindo",
+    "type": "DISTRICT"
+}
+
+Gisagara UUID:
+{
+    "id": "62cf3e73-ffde-492c-a626-5bcbf44d1008",
+    "code": "D16",
+    "name": "Gisagara",
+    "type": "DISTRICT"
+}
+
+Huye UUID:
+{
+    "id": "e562a094-c088-40ba-8df8-6a329236976f",
+    "code": "D17",
+    "name": "Huye",
+    "type": "DISTRICT"
+}
+
+Kamonyi UUID:
+{
+    "id": "433be2b0-ec6d-4eb4-a5d2-7d2897e88553",
+    "code": "D18",
+    "name": "Kamonyi",
+    "type": "DISTRICT"
+}
+
+Muhanga UUID:
+{
+    "id": "6cf24d53-056f-4a3d-b009-47cf39db1f3d",
+    "code": "D19",
+    "name": "Muhanga",
+    "type": "DISTRICT"
+}
+
+Nyamagabe UUID:
+{
+    "id": "b95d729e-3b39-466f-942d-46114c7994c9",
+    "code": "D20",
+    "name": "Nyamagabe",
+    "type": "DISTRICT"
+}
+
+Nyanza UUID:
+{
+    "id": "fef7bc17-8ae1-4599-b327-f502dfec3a52",
+    "code": "D21",
+    "name": "Nyanza",
+    "type": "DISTRICT"
+}
+
+Nyaruguru UUID:
+{
+    "id": "a0f9f234-77b7-4642-98fe-732f3aab10df",
+    "code": "D22",
+    "name": "Nyaruguru",
+    "type": "DISTRICT"
+}
+
+Ruhango UUID:
+{
+    "id": "ee23b7d3-70bc-44ac-89b7-44f9caa2ebbc",
+    "code": "D23",
+    "name": "Ruhango",
+    "type": "DISTRICT"
+}
+
+Karongi UUID:
+{
+    "id": "e8e12740-f082-462e-b865-1cdcbfcc5165",
+    "code": "D24",
+    "name": "Karongi",
+    "type": "DISTRICT"
+}
+
+Ngororero UUID:
+{
+    "id": "35176b0d-42b5-41cc-a688-12b85574e558",
+    "code": "D25",
+    "name": "Ngororero",
+    "type": "DISTRICT"
+}
+
+Nyabihu UUID:
+{
+    "id": "248ae2c7-ae80-4a02-a8cf-ea51de12a922",
+    "code": "D26",
+    "name": "Nyabihu",
+    "type": "DISTRICT"
+}
+
+Nyamasheke UUID:
+{
+    "id": "0b242ccb-e222-42ab-a5f9-b4244443c2b0",
+    "code": "D27",
+    "name": "Nyamasheke",
+    "type": "DISTRICT"
+}
+
+Rubavu UUID:
+{
+    "id": "756f2800-6159-4418-a7ad-6924d2342e07",
+    "code": "D28",
+    "name": "Rubavu",
+    "type": "DISTRICT"
+}
+
+Rusizi UUID:
+{
+    "id": "2307ba21-56c5-4c7f-9001-23e380f4ff4c",
+    "code": "D29",
+    "name": "Rusizi",
+    "type": "DISTRICT"
+}
+
+Rutsiro UUID:
+{
+    "id": "ad6a2fd0-e98a-49f2-8790-2fdfd1d2b7da",
+    "code": "D30",
+    "name": "Rutsiro",
+    "type": "DISTRICT"
+}
+
+
+
+UUIDS FOR SECTORS
+__________________
+KIGALI
+______
+Bumbogo UUID:
+{
+    "id": "526af246-5db5-44fe-8e6d-73b2b82409d6",
+    "code": "S01",
+    "name": "Bumbogo",
+    "type": "SECTOR"
+}
+
+Gahanga UUID:
+{
+    "id": "32c4a958-17fb-4707-9edb-00594d179e0d",
+    "code": "S02",
+    "name": "Gahanga",
+    "type": "SECTOR"
+}
+
+Gitega UUID:
+{
+    "id": "53b1bac9-9fc1-4215-bc5f-d5014d78e620",
+    "code": "S03",
+    "name": "Gitega",
+    "type": "SECTOR"
+}
+
+EAST
+____
+Gashora UUID:
+{
+    "id": "ca2d61a7-705c-4616-b8a3-615fc0cb67be",
+    "code": "S04",
+    "name": "Gashora",
+    "type": "SECTOR"
+}
+
+Gasange UUID:
+{
+    "id": "712e543f-12c5-40f1-b220-adcd3ba9d980",
+    "code": "S05",
+    "name": "Gasange",
+    "type": "SECTOR"
+}
+
+Gahini UUID:
+{
+    "id": "4c05f08b-be0a-4087-8be3-3e9421868189",
+    "code": "S06",
+    "name": "Gahini",
+    "type": "SECTOR"
+}
+
+Gahara UUID:
+{
+    "id": "e773927a-a7db-4b40-844c-9f2bc6d217cf",
+    "code": "S07",
+    "name": "Gahara",
+    "type": "SECTOR"
+}
+
+Jarama UUID:
+{
+    "id": "f0159322-ad13-4521-ab97-3945c2c91ec2",
+    "code": "S08",
+    "name": "Jarama",
+    "type": "SECTOR"
+}
+
+Karangazi UUID:
+{
+    "id": "d1ffe363-a100-457d-bcee-0cc1b7156906",
+    "code": "S09",
+    "name": "Karangazi",
+    "type": "SECTOR"
+}
+
+Fumbwe UUID:
+{
+    "id": "234c73e0-97a0-42f3-8f63-95097e0e19f9",
+    "code": "S10",
+    "name": "Fumbwe",
+    "type": "SECTOR"
+}
+
+
+NORTH
+_____
+Butaro UUID:
+{
+    "id": "29ed3d42-bda5-4208-b098-03b89bc0c7b6",
+    "code": "S11",
+    "name": "Butaro",
+    "type": "SECTOR"
+}
+
+Busengo UUID:
+{
+    "id": "7eab7bbf-013f-4ab2-9747-1e0b1f462812",
+    "code": "S12",
+    "name": "Busengo",
+    "type": "SECTOR"
+}
+
+Bukure UUID:
+{
+    "id": "886b531f-7944-406a-8dbc-da52d9579165",
+    "code": "S13",
+    "name": "Bukure",
+    "type": "SECTOR"
+}
+
+Busogo UUID:
+{
+    "id": "42ab2832-8c25-4b2b-bf94-69d23e1e66be",
+    "code": "S14",
+    "name": "Busogo",
+    "type": "SECTOR"
+}
+
+Base UUID:
+{
+    "id": "b8bfa3d4-19b2-47e0-bb8f-ed3d84d57a84",
+    "code": "S15",
+    "name": "Base",
+    "type": "SECTOR"
+}
+
+
+SOUTH
+_____
+Gikonko UUID:
+{
+    "id": "103c3626-88db-40cc-9692-80975f909878",
+    "code": "S16",
+    "name": "Gikonko",
+    "type": "SECTOR"
+}
+
+Gishamvu UUID:
+{
+    "id": "701dd5f0-f4db-4f42-a1db-2b19a2cb6c4b",
+    "code": "S17",
+    "name": "Gishamvu",
+    "type": "SECTOR"
+}
+
+Gacurabwenge UUID:
+{
+    "id": "7f9ba9c5-ca8a-4d8b-8e1b-72afebe5732c",
+    "code": "S18",
+    "name": "Gacurabwenge",
+    "type": "SECTOR"
+}
+
+Kabacuzi UUID:
+{
+    "id": "c20b18d3-e8ab-45f9-ae7f-e32259afb7c8",
+    "code": "S19",
+    "name": "Kabacuzi",
+    "type": "SECTOR"
+}
+
+Gasaka UUID:
+{
+    "id": "93c5188c-a552-4b50-8162-0c616c5f15b3",
+    "code": "S20",
+    "name": "Gasaka",
+    "type": "SECTOR"
+}
+
+Busasamana UUID:
+{
+    "id": "bc1c8ec5-27ce-4674-9c14-383724778587",
+    "code": "S21",
+    "name": "Busasamana",
+    "type": "SECTOR"
+}
+
+Kibeho UUID:
+{
+    "id": "432edffb-2677-4e95-bb56-07274ecb56aa",
+    "code": "S22",
+    "name": "Kibeho",
+    "type": "SECTOR"
+}
+
+Bweramana UUID:
+{
+    "id": "619eaf55-2785-4f52-8955-42b6b1b1c989",
+    "code": "S23",
+    "name": "Bweramana",
+    "type": "SECTOR"
+}
+
+WEST
+____
+Bwishyura UUID:
+{
+    "id": "fed356f3-b56c-46e4-a5c6-6b61dffadacc",
+    "code": "S24",
+    "name": "Bwishyura",
+    "type": "SECTOR"
+}
+
+Bwira UUID:
+{
+    "id": "630e1daf-8626-4f74-8274-22dc11642de2",
+    "code": "S25",
+    "name": "Bwira",
+    "type": "SECTOR"
+}
+
+Bigogwe UUID:
+{
+    "id": "f6b94a44-d768-4867-862b-fabdfe313253",
+    "code": "S26",
+    "name": "Bigogwe",
+    "type": "SECTOR"
+}
+
+Bushekeri UUID:
+{
+    "id": "85f613d3-70e4-410a-aa61-91a74770202a",
+    "code": "S27",
+    "name": "Bushekeri",
+    "type": "SECTOR"
+}
+
+Bugeshi UUID:
+{
+    "id": "e3ac9470-10ff-4c4e-8ce9-8d7b123626e1",
+    "code": "S28",
+    "name": "Bugeshi",
+    "type": "SECTOR"
+}
+
+Bugarama UUID:
+{
+    "id": "13ec7bcb-056f-44a5-ac69-a21a9c26a9eb",
+    "code": "S29",
+    "name": "Bugarama",
+    "type": "SECTOR"
+}
+
+Boneza UUID:
+{
+    "id": "85072a0b-260e-4080-abb0-918c2ba4296b",
+    "code": "S30",
+    "name": "Boneza",
+    "type": "SECTOR"
+}
+
+
+
+UUIDS FOR CELLS
+_______________
+KIGALI
+______
+{
+    "id": "0f4edde0-f538-40ba-8ad9-d2c4b6442c11",
+    "code": "C01",
+    "name": "Kinyaga",
+    "type": "CELL"
+}
+
+
+{
+    "id": "751c9763-efe1-4bc6-9261-c6d04d3b1b17",
+    "code": "C02",
+    "name": "Gahanga",
+    "type": "CELL"
+}
+
+
+{
+    "id": "63fde5fc-1d84-49d2-83f8-c9a37cb6978d",
+    "code": "C03",
+    "name": "Akabahizi",
+    "type": "CELL"
+}
+
+
+EAST
+____
+
+{
+    "id": "b7e6d1b6-5219-4062-a1f9-937bd4ff1c6c",
+    "code": "C04",
+    "name": "Biryogo",
+    "type": "CELL"
+}
+
+
+{
+    "id": "3854f037-f367-42cd-9a40-037e9bcd38b7",
+    "code": "C05",
+    "name": "Kigabiro",
+    "type": "CELL"
+}
+
+
+{
+    "id": "f277a6d3-720c-4747-9990-e9c7e2135dc6",
+    "code": "C06",
+    "name": "Juru",
+    "type": "CELL"
+}
+
+
+{
+    "id": "1513e7d8-3d61-4774-a5db-53ed37c48b6f",
+    "code": "C07",
+    "name": "Butezi",
+    "type": "CELL"
+}
+
+
+{
+    "id": "ef82e349-ae8f-45f4-a182-753392600533",
+    "code": "C08",
+    "name": "Jarama",
+    "type": "CELL"
+}
+
+
+{
+    "id": "e2330709-b188-4414-b783-c926c9443b06",
+    "code": "C09",
+    "name": "Kamate",
+    "type": "CELL"
+}
+
+
+{
+    "id": "eda95fcb-ce14-444b-9c2c-0e0ba4042bfb",
+    "code": "C10",
+    "name": "Mununu",
+    "type": "CELL"
+}
+
+
+NORTH
+______
+
+{
+    "id": "81f2266f-fdaa-4bbf-914a-b9482e96d00c",
+    "code": "C11",
+    "name": "Gatsibo",
+    "type": "CELL"
+}
+
+
+{
+    "id": "2a932bb4-4c54-487d-8ba4-fcd9f43c19ba",
+    "code": "C12",
+    "name": "Birambo",
+    "type": "CELL"
+}
+
+
+{
+    "id": "3bd66a13-c8a3-4ff8-8625-a85136d97b20",
+    "code": "C13",
+    "name": "Karenge",
+    "type": "CELL"
+}
+
+
+{
+    "id": "02d44b8c-d320-4083-ad6c-ecd9d3308f32",
+    "code": "C14",
+    "name": "Gisesero",
+    "type": "CELL"
+}
+
+
+
+{
+    "id": "0bb6322b-335a-4120-95fb-78053165739f",
+    "code": "C15",
+    "name": "Cyohoha",
+    "type": "CELL"
+}
+
+
+SOUTH
+_____
+
+{
+    "id": "b566fc21-f12e-436a-824d-9e003093c422",
+    "code": "C16",
+    "name": "Cyiri",
+    "type": "CELL"
+}
+
+
+{
+    "id": "4a28c64f-20e3-4157-8434-1f0db8a3dc34",
+    "code": "C17",
+    "name": "Nyakibanda",
+    "type": "CELL"
+}
+
+
+{
+    "id": "545a39d2-8926-4ca8-9ae0-690cf08486f5",
+    "code": "C18",
+    "name": "Gihinga",
+    "type": "CELL"
+}
+
+
+{
+    "id": "a29eb0c9-f49c-4475-b979-24e3315a36c2",
+    "code": "C19",
+    "name": "Buramba",
+    "type": "CELL"
+}
+
+
+{
+    "id": "4139ed32-7cc6-4389-ada8-7d864e88ba8b",
+    "code": "C20",
+    "name": "Kigeme",
+    "type": "CELL"
+}
+
+
+{
+    "id": "0bd84a32-1072-462a-bf94-feab0229ad86",
+    "code": "C21",
+    "name": "Gahondo",
+    "type": "CELL"
+}
+
+
+{
+    "id": "34cb3c7f-1830-4482-8556-eeef7539b767",
+    "code": "C22",
+    "name": "Mpanda",
+    "type": "CELL"
+}
+
+
+{
+    "id": "5fe9ddd6-ed5f-4282-863e-d111e06e2449",
+    "code": "C23",
+    "name": "Buhanda",
+    "type": "CELL"
+}
+
+
+WEST
+____
+
+{
+    "id": "521b77b5-0873-43ce-bcc1-66b2723cfeeb",
+    "code": "C24",
+    "name": "Burunga",
+    "type": "CELL"
+}
+
+
+{
+    "id": "0e6ec7af-c924-4823-83a1-39a1cc177f7b",
+    "code": "C25",
+    "name": "Bungwe",
+    "type": "CELL"
+}
+
+
+{
+    "id": "f0e16a30-61eb-4eec-b98f-b32a6e4482ec",
+    "code": "C26",
+    "name": "Arusha",
+    "type": "CELL"
+}
+
+
+{
+    "id": "0c5d5fdb-a8bd-4797-8cf9-6b3b330552db",
+    "code": "C27",
+    "name": "Buvungira",
+    "type": "CELL"
+}
+
+
+{
+    "id": "b8983ac2-3fb6-478f-9669-d64680299d34",
+    "code": "C28",
+    "name": "Buringo",
+    "type": "CELL"
+}
+
+
+{
+    "id": "52f87bea-3be1-42b6-bfd4-7471e8d4e5a5",
+    "code": "C29",
+    "name": "Nyange",
+    "type": "CELL"
+}
+
+
+{
+    "id": "1d7b18db-94c7-453a-89a7-ef11434cf88b",
+    "code": "C30",
+    "name": "Bushaka",
+    "type": "CELL"
+}
+
+
+
+UUIDS FOR VILLAGES
+__________________
+
+KIGALI
+_______
+{
+    "id": "567a8fa3-541f-4a96-931d-dc707d3d9295",
+    "code": "V01",
+    "name": "Akakaza",
+    "type": "VILLAGE"
+}
+
+
+{
+    "id": "5876e990-250f-4616-ad84-c5b363b42244",
+    "code": "V02",
+    "name": "Gahanga",
+    "type": "VILLAGE"
+}
+
+
+
+{
+    "id": "58595e9e-800a-470e-8058-0f45aaba1163",
+    "code": "V03",
+    "name": "Gihanga",
+    "type": "VILLAGE"
+}
+
+
+EAST
+_____
+
+{
+    "id": "e9781a11-8dbe-460a-9e56-09645d0f66b3",
+    "code": "V04",
+    "name": "Bidudu",
+    "type": "VILLAGE"
+}
+
+
+{
+    "id": "dc9d0400-dd8c-4e99-ac6f-668509a0ec0b",
+    "code": "V05",
+    "name": "Kabuye",
+    "type": "VILLAGE"
+}
+
+
+{
+    "id": "9bf4f603-3e13-4438-a540-faf12857e120",
+    "code": "V06",
+    "name": "Gisenga",
+    "type": "VILLAGE"
+}
+
+
+{
+    "id": "e682d560-f807-4688-ae8d-2d9cf7118e4a",
+    "code": "V07",
+    "name": "Cyamabuye",
+    "type": "VILLAGE"
+}
+
+
+{
+    "id": "0e221476-c2fe-40fe-931a-cc741f75530e",
+    "code": "V08",
+    "name": "Abiyunze",
+    "type": "VILLAGE"
+}
+
+
+{
+    "id": "2146a578-e0f4-4095-96e8-84c00249bb0f",
+    "code": "V09",
+    "name": "Karutete",
+    "type": "VILLAGE"
+}
+
+
+{
+    "id": "b7904ad5-ca50-4d0a-ac47-3560e4ba8b39",
+    "code": "V10",
+    "name": "Cyingara",
+    "type": "VILLAGE"
+}
+
+NORTH
+_____
+
+{
+    "id": "fba0efb8-e2a4-4878-9f09-16c870bfadbd",
+    "code": "V11",
+    "name": "Gafumba",
+    "type": "VILLAGE"
+}
+
+
+{
+    "id": "90fa8a49-c04e-4d93-9e0a-bd95cc95ad3f",
+    "code": "V12",
+    "name": "Birambo",
+    "type": "VILLAGE"
+}
+
+
+{
+    "id": "17d1ff57-b33e-42b3-b593-02438401cde6",
+    "code": "V13",
+    "name": "Gasharu",
+    "type": "VILLAGE"
+}
+
+
+{
+    "id": "1b6e421a-74db-4c60-b43c-e8a6bc37408c",
+    "code": "V14",
+    "name": "Gahanga",
+    "type": "VILLAGE"
+}
+
+
+{
+    "id": "9faafdf0-1c6b-4a86-bb01-a4740be395dd",
+    "code": "V15",
+    "name": "Ruganda",
+    "type": "VILLAGE"
+}
+
+SOUTH
+_____
+
+{
+    "id": "99c738ab-1d21-46eb-ab50-43e2eb1b7c09",
+    "code": "V16",
+    "name": "Curusi",
+    "type": "VILLAGE"
+}
+
+
+{
+    "id": "01f46a94-22ba-4d04-b337-217fc960309c",
+    "code": "V17",
+    "name": "Byimana",
+    "type": "VILLAGE"
+}
+
+
+{
+    "id": "4d9b6b65-2428-4baa-88bb-3d5ee580115c",
+    "code": "V18",
+    "name": "Kagarama",
+    "type": "VILLAGE"
+}
+
+
+{
+    "id": "0c3f3f8e-b432-4f3e-ab15-4cbd87847b6e",
+    "code": "V19",
+    "name": "Gahembe",
+    "type": "VILLAGE"
+}
+
+
+{
+    "id": "e84c518c-7034-4495-ab62-549d9a0c43cb",
+    "code": "V20",
+    "name": "Gakoma",
+    "type": "VILLAGE"
+}
+
+
+{
+    "id": "91bc096f-2d51-4b58-badd-3f9b3b5cceb1",
+    "code": "V21",
+    "name": "Bigega",
+    "type": "VILLAGE"
+}
+
+
+{
+    "id": "20b8d270-0034-4f38-8f30-697f21da908c",
+    "code": "V22",
+    "name": "Banga",
+    "type": "VILLAGE"
+}
+
+
+{
+    "id": "8195626b-f3af-4280-b9b3-1980042ced53",
+    "code": "V23",
+    "name": "Bugufi",
+    "type": "VILLAGE"
+}
+
+
+WEST
+_____
+
+{
+    "id": "f77273ba-0b15-4649-818c-3b8b45beae4b",
+    "code": "V24",
+    "name": "Kabuga",
+    "type": "VILLAGE"
+}
+
+
+{
+    "id": "41382ed5-c704-4091-9154-9de5fe2751cf",
+    "code": "V25",
+    "name": "Nyarusazi",
+    "type": "VILLAGE"
+}
+
+
+{
+    "id": "39afea15-3885-42d8-bb7b-f4cdc79c0605",
+    "code": "V26",
+    "name": "Arusha",
+    "type": "VILLAGE"
+}
+
+
+{
+    "id": "e6882881-7373-45cf-9573-8d7ff506b960",
+    "code": "V27",
+    "name": "Buhinga",
+    "type": "VILLAGE"
+}
+
+
+{
+    "id": "03556acc-6fd0-489d-b1e1-ee075f0ebf9d",
+    "code": "V28",
+    "name": "Bugeshi",
+    "type": "VILLAGE"
+}
+
+
+{
+    "id": "48029b66-fad8-4ff5-8171-46836a88d2f8",
+    "code": "V29",
+    "name": "Citi",
+    "type": "VILLAGE"
+}
+
+
+{
+    "id": "11c53d63-8fae-43e4-9c6f-0008adab5460",
+    "code": "V30",
+    "name": "Bikono",
+    "type": "VILLAGE"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CATEGORIES
+___________
+
+{
+    "id": "a8d63c8c-6a07-44ff-8b5d-713fd38a07d7",
+    "name": "SUV"
+}
+
+
+
+{
+    "id": "ac21c9db-d8fe-4d04-8264-252236f2d0e8",
+    "name": "Sedan"
+}
+
+
+
+{
+    "id": "ee828ae0-b667-44b4-b10e-8e54ceeab958",
+    "name": "Pickup"
+}
+
+
+
+{
+    "id": "61683f0a-fbc7-4390-aeeb-1e695913cbb9",
+    "name": "Hatchback"
+}
+
+
+
+{
+    "id": "c713cce3-3c4d-47cc-a279-1afc01774536",
+    "name": "Van"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+USERS
+_____
+
+{
+    "id": "ca86d5a4-f635-42f7-97af-c8c6722d9515",
+    "firstName": "Alice",
+    "lastName": "Buyer",
+    "email": "alice.buyer@example.com",
+    "phone": "+250780000001",
+    "password": "pass123",
+    "userType": "BUYER",
+    "location": {
+        "id": "5876e990-250f-4616-ad84-c5b363b42244",
+        "code": "V02",
+        "name": "Gahanga",
+        "type": "VILLAGE"
+    }
+}
+
+
+
+{
+    "id": "41565221-b55a-470c-928f-65560869823d",
+    "firstName": "Jospin",
+    "lastName": "Nabonyimana",
+    "email": "jospinnabonyimana@gmail.com",
+    "phone": "+250781872033",
+    "userType": "BOTH",
+    "location": {
+        "userId": "41565221-b55a-470c-928f-65560869823d",
+        "villageId": "41382ed5-c704-4091-9154-9de5fe2751cf",
+        "villageCode": "V25",
+        "villageName": "Nyarusazi",
+        "cellId": "0e6ec7af-c924-4823-83a1-39a1cc177f7b",
+        "cellCode": "C25",
+        "cellName": "Bungwe",
+        "sectorId": "630e1daf-8626-4f74-8274-22dc11642de2",
+        "sectorCode": "S25",
+        "sectorName": "Bwira",
+        "districtId": "35176b0d-42b5-41cc-a688-12b85574e558",
+        "districtCode": "D25",
+        "districtName": "Ngororero",
+        "provinceId": "0d10acb1-c732-4368-95c5-e6f2f7c1e90c",
+        "provinceCode": "P05",
+        "provinceName": "Western Province"
+    }
+}
+
+
+
+{
+    "id": "4ac55738-7a59-4487-b806-ccdbc42a8d18",
+    "firstName": "Eric",
+    "lastName": "Seller",
+    "email": "eric.seller@example.com",
+    "phone": "+250780000003",
+    "userType": "SELLER",
+    "location": {
+        "userId": "4ac55738-7a59-4487-b806-ccdbc42a8d18",
+        "villageId": "9faafdf0-1c6b-4a86-bb01-a4740be395dd",
+        "villageCode": "V15",
+        "villageName": "Ruganda",
+        "cellId": "0bb6322b-335a-4120-95fb-78053165739f",
+        "cellCode": "C15",
+        "cellName": "Cyohoha",
+        "sectorId": "b8bfa3d4-19b2-47e0-bb8f-ed3d84d57a84",
+        "sectorCode": "S15",
+        "sectorName": "Base",
+        "districtId": "e537aab1-2c8c-4129-a173-82d13ce0710f",
+        "districtCode": "D15",
+        "districtName": "Rulindo",
+        "provinceId": "f45fa5af-9493-4da9-a661-345dad25f865",
+        "provinceCode": "P03",
+        "provinceName": "Northern Province"
+    }
+}
+
+
+{
+    "id": "d86b3704-f03f-40b9-83df-b6e6dc9df550",
+    "firstName": "Grace",
+    "lastName": "Buyer2",
+    "email": "grace.buyer2@example.com",
+    "phone": "+250780000004",
+    "userType": "BUYER",
+    "location": {
+        "userId": "d86b3704-f03f-40b9-83df-b6e6dc9df550",
+        "villageId": "2146a578-e0f4-4095-96e8-84c00249bb0f",
+        "villageCode": "V09",
+        "villageName": "Karutete",
+        "cellId": "e2330709-b188-4414-b783-c926c9443b06",
+        "cellCode": "C09",
+        "cellName": "Kamate",
+        "sectorId": "d1ffe363-a100-457d-bcee-0cc1b7156906",
+        "sectorCode": "S09",
+        "sectorName": "Karangazi",
+        "districtId": "3fa3c45c-4bbd-4628-b1b7-cd73fb73141a",
+        "districtCode": "D09",
+        "districtName": "Nyagatare",
+        "provinceId": "e430f041-7714-4528-bd4a-ecebd32c7672",
+        "provinceCode": "P02",
+        "provinceName": "Eastern Province"
+    }
+}
+
+
+{
+    "id": "0ab14605-a591-45c9-b116-42f8bea96cde",
+    "firstName": "David",
+    "lastName": "Seller2",
+    "email": "david.seller2@example.com",
+    "phone": "+250780000005",
+    "userType": "SELLER",
+    "location": {
+        "userId": "0ab14605-a591-45c9-b116-42f8bea96cde",
+        "villageId": "01f46a94-22ba-4d04-b337-217fc960309c",
+        "villageCode": "V17",
+        "villageName": "Byimana",
+        "cellId": "4a28c64f-20e3-4157-8434-1f0db8a3dc34",
+        "cellCode": "C17",
+        "cellName": "Nyakibanda",
+        "sectorId": "701dd5f0-f4db-4f42-a1db-2b19a2cb6c4b",
+        "sectorCode": "S17",
+        "sectorName": "Gishamvu",
+        "districtId": "e562a094-c088-40ba-8df8-6a329236976f",
+        "districtCode": "D17",
+        "districtName": "Huye",
+        "provinceId": "cd94f516-1c5b-4142-bc79-ebb41eb8db3b",
+        "provinceCode": "P04",
+        "provinceName": "Southern Province"
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CARS
+______
+
+{
+    "id": "31378778-309f-449b-80b1-100912a95ae3",
+    "plateNumber": "RAD123A",
+    "brand": "Toyota",
+    "model": "RAV4",
+    "year": 2020,
+    "price": 15000.00,
+    "mileage": 65000,
+    "status": "AVAILABLE",
+    "description": "Well maintained SUV",
+    "ownerId": "4ac55738-7a59-4487-b806-ccdbc42a8d18",
+    "ownerFirstName": "Eric",
+    "ownerLastName": "Seller",
+    "ownerEmail": "eric.seller@example.com",
+    "ownerPhone": "+250780000003",
+    "categories": [
+        "SUV"
+    ],
+    "location": {
+        "userId": "4ac55738-7a59-4487-b806-ccdbc42a8d18",
+        "villageId": "9faafdf0-1c6b-4a86-bb01-a4740be395dd",
+        "villageCode": "V15",
+        "villageName": "Ruganda",
+        "cellId": "0bb6322b-335a-4120-95fb-78053165739f",
+        "cellCode": "C15",
+        "cellName": "Cyohoha",
+        "sectorId": "b8bfa3d4-19b2-47e0-bb8f-ed3d84d57a84",
+        "sectorCode": "S15",
+        "sectorName": "Base",
+        "districtId": "e537aab1-2c8c-4129-a173-82d13ce0710f",
+        "districtCode": "D15",
+        "districtName": "Rulindo",
+        "provinceId": "f45fa5af-9493-4da9-a661-345dad25f865",
+        "provinceCode": "P03",
+        "provinceName": "Northern Province"
+    }
+}
+
+
+
+
+
+{
+    "id": "c440d951-6820-42aa-a070-dab9129795fa",
+    "plateNumber": "RAE456B",
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2018,
+    "price": 9000.00,
+    "mileage": 82000,
+    "status": "AVAILABLE",
+    "description": "Fuel efficient sedan",
+    "ownerId": "41565221-b55a-470c-928f-65560869823d",
+    "ownerFirstName": "Jospin",
+    "ownerLastName": "Nabonyimana",
+    "ownerEmail": "jospinnabonyimana@gmail.com",
+    "ownerPhone": "+250781872033",
+    "categories": [
+        "Sedan"
+    ],
+    "location": {
+        "userId": "41565221-b55a-470c-928f-65560869823d",
+        "villageId": "41382ed5-c704-4091-9154-9de5fe2751cf",
+        "villageCode": "V25",
+        "villageName": "Nyarusazi",
+        "cellId": "0e6ec7af-c924-4823-83a1-39a1cc177f7b",
+        "cellCode": "C25",
+        "cellName": "Bungwe",
+        "sectorId": "630e1daf-8626-4f74-8274-22dc11642de2",
+        "sectorCode": "S25",
+        "sectorName": "Bwira",
+        "districtId": "35176b0d-42b5-41cc-a688-12b85574e558",
+        "districtCode": "D25",
+        "districtName": "Ngororero",
+        "provinceId": "0d10acb1-c732-4368-95c5-e6f2f7c1e90c",
+        "provinceCode": "P05",
+        "provinceName": "Western Province"
+    }
+}
+
+
+
+
+
+{
+    "id": "7a0017cf-f4cb-490e-9efd-04d3c1333a8c",
+    "plateNumber": "RAH789C",
+    "brand": "Nissan",
+    "model": "Note",
+    "year": 2017,
+    "price": 6500.00,
+    "mileage": 92000,
+    "status": "AVAILABLE",
+    "description": "Compact hatchback",
+    "ownerId": "0ab14605-a591-45c9-b116-42f8bea96cde",
+    "ownerFirstName": "David",
+    "ownerLastName": "Seller2",
+    "ownerEmail": "david.seller2@example.com",
+    "ownerPhone": "+250780000005",
+    "categories": [
+        "Hatchback"
+    ],
+    "location": {
+        "userId": "0ab14605-a591-45c9-b116-42f8bea96cde",
+        "villageId": "01f46a94-22ba-4d04-b337-217fc960309c",
+        "villageCode": "V17",
+        "villageName": "Byimana",
+        "cellId": "4a28c64f-20e3-4157-8434-1f0db8a3dc34",
+        "cellCode": "C17",
+        "cellName": "Nyakibanda",
+        "sectorId": "701dd5f0-f4db-4f42-a1db-2b19a2cb6c4b",
+        "sectorCode": "S17",
+        "sectorName": "Gishamvu",
+        "districtId": "e562a094-c088-40ba-8df8-6a329236976f",
+        "districtCode": "D17",
+        "districtName": "Huye",
+        "provinceId": "cd94f516-1c5b-4142-bc79-ebb41eb8db3b",
+        "provinceCode": "P04",
+        "provinceName": "Southern Province"
+    }
+}
+
+
+
+
+
+
+{
+    "id": "9c68ad3d-406a-4e2d-abc7-5d8b57d7b2dd",
+    "plateNumber": "RAJ321D",
+    "brand": "Toyota",
+    "model": "Hiace",
+    "year": 2016,
+    "price": 12000.00,
+    "mileage": 110000,
+    "status": "AVAILABLE",
+    "description": "Reliable van",
+    "ownerId": "4ac55738-7a59-4487-b806-ccdbc42a8d18",
+    "ownerFirstName": "Eric",
+    "ownerLastName": "Seller",
+    "ownerEmail": "eric.seller@example.com",
+    "ownerPhone": "+250780000003",
+    "categories": [
+        "Van"
+    ],
+    "location": {
+        "userId": "4ac55738-7a59-4487-b806-ccdbc42a8d18",
+        "villageId": "9faafdf0-1c6b-4a86-bb01-a4740be395dd",
+        "villageCode": "V15",
+        "villageName": "Ruganda",
+        "cellId": "0bb6322b-335a-4120-95fb-78053165739f",
+        "cellCode": "C15",
+        "cellName": "Cyohoha",
+        "sectorId": "b8bfa3d4-19b2-47e0-bb8f-ed3d84d57a84",
+        "sectorCode": "S15",
+        "sectorName": "Base",
+        "districtId": "e537aab1-2c8c-4129-a173-82d13ce0710f",
+        "districtCode": "D15",
+        "districtName": "Rulindo",
+        "provinceId": "f45fa5af-9493-4da9-a661-345dad25f865",
+        "provinceCode": "P03",
+        "provinceName": "Northern Province"
+    }
+}
+
+
+
+
+{
+    "id": "49d8eb5f-df0d-444b-aa9c-de750aef26e5",
+    "plateNumber": "RAK654E",
+    "brand": "Ford",
+    "model": "Ranger",
+    "year": 2019,
+    "price": 17000.00,
+    "mileage": 70000,
+    "status": "AVAILABLE",
+    "description": "Pickup for work",
+    "ownerId": "41565221-b55a-470c-928f-65560869823d",
+    "ownerFirstName": "Jospin",
+    "ownerLastName": "Nabonyimana",
+    "ownerEmail": "jospinnabonyimana@gmail.com",
+    "ownerPhone": "+250781872033",
+    "categories": [
+        "Pickup"
+    ],
+    "location": {
+        "userId": "41565221-b55a-470c-928f-65560869823d",
+        "villageId": "41382ed5-c704-4091-9154-9de5fe2751cf",
+        "villageCode": "V25",
+        "villageName": "Nyarusazi",
+        "cellId": "0e6ec7af-c924-4823-83a1-39a1cc177f7b",
+        "cellCode": "C25",
+        "cellName": "Bungwe",
+        "sectorId": "630e1daf-8626-4f74-8274-22dc11642de2",
+        "sectorCode": "S25",
+        "sectorName": "Bwira",
+        "districtId": "35176b0d-42b5-41cc-a688-12b85574e558",
+        "districtCode": "D25",
+        "districtName": "Ngororero",
+        "provinceId": "0d10acb1-c732-4368-95c5-e6f2f7c1e90c",
+        "provinceCode": "P05",
+        "provinceName": "Western Province"
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INQUIRES
+________
+
+
+{
+    "id": "abf60886-642b-44e5-9bfc-4fd16fd12495",
+    "message": "Is this car still available?",
+    "status": "PENDING",
+    "car": {
+        "id": "31378778-309f-449b-80b1-100912a95ae3",
+        "plateNumber": "RAD123A",
+        "brand": "Toyota",
+        "model": "RAV4",
+        "year": 2020,
+        "price": 15000.00,
+        "mileage": 65000,
+        "status": "AVAILABLE",
+        "description": "Well maintained SUV",
+        "owner": {
+            "id": "4ac55738-7a59-4487-b806-ccdbc42a8d18",
+            "firstName": "Eric",
+            "lastName": "Seller",
+            "email": "eric.seller@example.com",
+            "phone": "+250780000003",
+            "password": "pass123",
+            "userType": "SELLER",
+            "location": {
+                "id": "9faafdf0-1c6b-4a86-bb01-a4740be395dd",
+                "code": "V15",
+                "name": "Ruganda",
+                "type": "VILLAGE",
+                "hibernateLazyInitializer": {}
+            },
+            "hibernateLazyInitializer": {}
+        },
+        "categories": [
+            {
+                "id": "a8d63c8c-6a07-44ff-8b5d-713fd38a07d7",
+                "name": "SUV"
+            }
+        ]
+    },
+    "inquirer": {
+        "id": "ca86d5a4-f635-42f7-97af-c8c6722d9515",
+        "firstName": "Alice",
+        "lastName": "Buyer",
+        "email": "alice.buyer@example.com",
+        "phone": "+250780000001",
+        "password": "pass123",
+        "userType": "BUYER",
+        "location": {
+            "id": "5876e990-250f-4616-ad84-c5b363b42244",
+            "code": "V02",
+            "name": "Gahanga",
+            "type": "VILLAGE",
+            "hibernateLazyInitializer": {}
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+    "id": "f22759e9-a983-4937-809c-dac61dec1c43",
+    "message": "Can I schedule a test drive?",
+    "status": "PENDING",
+    "car": {
+        "id": "c440d951-6820-42aa-a070-dab9129795fa",
+        "plateNumber": "RAE456B",
+        "brand": "Honda",
+        "model": "Civic",
+        "year": 2018,
+        "price": 9000.00,
+        "mileage": 82000,
+        "status": "AVAILABLE",
+        "description": "Fuel efficient sedan",
+        "owner": {
+            "id": "41565221-b55a-470c-928f-65560869823d",
+            "firstName": "Jospin",
+            "lastName": "Nabonyimana",
+            "email": "jospinnabonyimana@gmail.com",
+            "phone": "+250781872033",
+            "password": "jospin123",
+            "userType": "BOTH",
+            "location": {
+                "id": "41382ed5-c704-4091-9154-9de5fe2751cf",
+                "code": "V25",
+                "name": "Nyarusazi",
+                "type": "VILLAGE",
+                "hibernateLazyInitializer": {}
+            },
+            "hibernateLazyInitializer": {}
+        },
+        "categories": [
+            {
+                "id": "ac21c9db-d8fe-4d04-8264-252236f2d0e8",
+                "name": "Sedan"
+            }
+        ]
+    },
+    "inquirer": {
+        "id": "ca86d5a4-f635-42f7-97af-c8c6722d9515",
+        "firstName": "Alice",
+        "lastName": "Buyer",
+        "email": "alice.buyer@example.com",
+        "phone": "+250780000001",
+        "password": "pass123",
+        "userType": "BUYER",
+        "location": {
+            "id": "5876e990-250f-4616-ad84-c5b363b42244",
+            "code": "V02",
+            "name": "Gahanga",
+            "type": "VILLAGE",
+            "hibernateLazyInitializer": {}
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+{
+    "id": "635561f8-9125-4212-a6b4-c2b2ffce3b38",
+    "message": "Is the price negotiable?",
+    "status": "PENDING",
+    "car": {
+        "id": "7a0017cf-f4cb-490e-9efd-04d3c1333a8c",
+        "plateNumber": "RAH789C",
+        "brand": "Nissan",
+        "model": "Note",
+        "year": 2017,
+        "price": 6500.00,
+        "mileage": 92000,
+        "status": "AVAILABLE",
+        "description": "Compact hatchback",
+        "owner": {
+            "id": "0ab14605-a591-45c9-b116-42f8bea96cde",
+            "firstName": "David",
+            "lastName": "Seller2",
+            "email": "david.seller2@example.com",
+            "phone": "+250780000005",
+            "password": "pass123",
+            "userType": "SELLER",
+            "location": {
+                "id": "01f46a94-22ba-4d04-b337-217fc960309c",
+                "code": "V17",
+                "name": "Byimana",
+                "type": "VILLAGE",
+                "hibernateLazyInitializer": {}
+            },
+            "hibernateLazyInitializer": {}
+        },
+        "categories": [
+            {
+                "id": "61683f0a-fbc7-4390-aeeb-1e695913cbb9",
+                "name": "Hatchback"
+            }
+        ]
+    },
+    "inquirer": {
+        "id": "d86b3704-f03f-40b9-83df-b6e6dc9df550",
+        "firstName": "Grace",
+        "lastName": "Buyer2",
+        "email": "grace.buyer2@example.com",
+        "phone": "+250780000004",
+        "password": "pass123",
+        "userType": "BUYER",
+        "location": {
+            "id": "2146a578-e0f4-4095-96e8-84c00249bb0f",
+            "code": "V09",
+            "name": "Karutete",
+            "type": "VILLAGE",
+            "hibernateLazyInitializer": {}
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+    "id": "65e679fa-9943-47e5-af93-f501e925094c",
+    "message": "Can I see service history?",
+    "status": "PENDING",
+    "car": {
+        "id": "9c68ad3d-406a-4e2d-abc7-5d8b57d7b2dd",
+        "plateNumber": "RAJ321D",
+        "brand": "Toyota",
+        "model": "Hiace",
+        "year": 2016,
+        "price": 12000.00,
+        "mileage": 110000,
+        "status": "AVAILABLE",
+        "description": "Reliable van",
+        "owner": {
+            "id": "4ac55738-7a59-4487-b806-ccdbc42a8d18",
+            "firstName": "Eric",
+            "lastName": "Seller",
+            "email": "eric.seller@example.com",
+            "phone": "+250780000003",
+            "password": "pass123",
+            "userType": "SELLER",
+            "location": {
+                "id": "9faafdf0-1c6b-4a86-bb01-a4740be395dd",
+                "code": "V15",
+                "name": "Ruganda",
+                "type": "VILLAGE",
+                "hibernateLazyInitializer": {}
+            },
+            "hibernateLazyInitializer": {}
+        },
+        "categories": [
+            {
+                "id": "c713cce3-3c4d-47cc-a279-1afc01774536",
+                "name": "Van"
+            }
+        ]
+    },
+    "inquirer": {
+        "id": "d86b3704-f03f-40b9-83df-b6e6dc9df550",
+        "firstName": "Grace",
+        "lastName": "Buyer2",
+        "email": "grace.buyer2@example.com",
+        "phone": "+250780000004",
+        "password": "pass123",
+        "userType": "BUYER",
+        "location": {
+            "id": "2146a578-e0f4-4095-96e8-84c00249bb0f",
+            "code": "V09",
+            "name": "Karutete",
+            "type": "VILLAGE",
+            "hibernateLazyInitializer": {}
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+{
+    "id": "64e443bb-a0c1-4cb0-8433-a44c0c933f3c",
+    "message": "Is it available this week?",
+    "status": "PENDING",
+    "car": {
+        "id": "49d8eb5f-df0d-444b-aa9c-de750aef26e5",
+        "plateNumber": "RAK654E",
+        "brand": "Ford",
+        "model": "Ranger",
+        "year": 2019,
+        "price": 17000.00,
+        "mileage": 70000,
+        "status": "AVAILABLE",
+        "description": "Pickup for work",
+        "owner": {
+            "id": "41565221-b55a-470c-928f-65560869823d",
+            "firstName": "Jospin",
+            "lastName": "Nabonyimana",
+            "email": "jospinnabonyimana@gmail.com",
+            "phone": "+250781872033",
+            "password": "jospin123",
+            "userType": "BOTH",
+            "location": {
+                "id": "41382ed5-c704-4091-9154-9de5fe2751cf",
+                "code": "V25",
+                "name": "Nyarusazi",
+                "type": "VILLAGE",
+                "hibernateLazyInitializer": {}
+            },
+            "hibernateLazyInitializer": {}
+        },
+        "categories": [
+            {
+                "id": "ee828ae0-b667-44b4-b10e-8e54ceeab958",
+                "name": "Pickup"
+            }
+        ]
+    },
+    "inquirer": {
+        "id": "ca86d5a4-f635-42f7-97af-c8c6722d9515",
+        "firstName": "Alice",
+        "lastName": "Buyer",
+        "email": "alice.buyer@example.com",
+        "phone": "+250780000001",
+        "password": "pass123",
+        "userType": "BUYER",
+        "location": {
+            "id": "5876e990-250f-4616-ad84-c5b363b42244",
+            "code": "V02",
+            "name": "Gahanga",
+            "type": "VILLAGE",
+            "hibernateLazyInitializer": {}
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

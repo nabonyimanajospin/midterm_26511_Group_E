@@ -285,7 +285,7 @@ spring.jpa.hibernate.ddl-auto=update
 ### 3. Run
  
 ```bash
-mvn clean spring-boot:ru
+mvn clean spring-boot:run
 ```
  
 ---

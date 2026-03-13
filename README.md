@@ -397,11 +397,13 @@ Checking with false information
  
 PlantUML diagrams are included in the `/diagrams` directory:
  
-| File | Description |
-|---|---|
-| `diagrams/erd-diagram.puml` | Entity Relationship Diagram |
-| `diagrams/class-diagram.puml` | Class Diagram |
- 
+The following are the pictures showing the ERD Diagram and the Class diagram, respectively.
+
+<img width="936" height="1214" alt="ERD Diagram" src="https://github.com/user-attachments/assets/a1c8c46e-db0b-482d-9ed3-574385dafd05" />
+
+<img width="2290" height="1406" alt="Class diagram" src="https://github.com/user-attachments/assets/0c349c42-e95f-488f-b135-d7d83032877d" />
+
+The above shows more about the functionality of the project, how the relationships are, and how the flow is 
 To render them, use the [PlantUML online editor](https://www.plantuml.com/plantuml/uml/) or the PlantUML VS Code extension.
  
 ---

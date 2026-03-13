@@ -270,7 +270,7 @@ GET /api/cars?page=0&size=10&sortBy=price&direction=asc
 ### 1. Create the Database
  
 ```sql
-CREATE DATABASE carconnect_final_db;
+CREATE DATABASE carconnect_new_db;
 ```
  
 ### 2. Configure `application.properties`

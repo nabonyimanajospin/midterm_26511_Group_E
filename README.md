@@ -276,9 +276,9 @@ CREATE DATABASE carconnect_new_db;
 ### 2. Configure `application.properties`
  
 ```properties
-spring.datasource.url=jdbc:postgresql://localhost:5432/carconnect_final_db
-spring.datasource.username=YOUR_USERNAME
-spring.datasource.password=YOUR_PASSWORD
+spring.datasource.url=jdbc:postgresql://localhost:5432/carconnect_new_db
+spring.datasource.username=postgres
+spring.datasource.password=jospin123
 spring.jpa.hibernate.ddl-auto=update
 ```
  

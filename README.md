@@ -292,7 +292,7 @@ mvn clean spring-boot:run
  
 ## 🧪 Postman Data Flow
  
-Create resources in this exact order, as each step depends on the previous:
+I created resources in this exact order, as each step depends on the previous:
  
 ```
 1. POST /api/locations   → Create Provinces   (type=PROVINCE, parentId=null)

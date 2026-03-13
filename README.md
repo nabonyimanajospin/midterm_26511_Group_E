@@ -319,9 +319,7 @@ I created resources in this exact order, as each step depends on the previous:
  
 ## 📸 Evidence & Screenshots
  
-> 📌 **Instructions:** For each section below, take a screenshot from Postman or your database tool and replace the placeholder text with:
-> `![description](screenshots/filename.png)`
-> Make sure to create a `screenshots/` folder in your repo and upload all images there.
+> 📌 **Below are some of the screenshots taken from Postman or my database tool:
  
 ---
  
@@ -329,10 +327,7 @@ I created resources in this exact order, as each step depends on the previous:
  
 > *Screenshot showing Postman POST requests for creating Provinces, Districts, Sectors, Cells, and Villages. Show the request body and the success response.*
  
-```
-[ 📷 PASTE SCREENSHOT HERE ]
-Replace this block with: ![locations-hierarchy](screenshots/locations-hierarchy.png)
-```
+<img width="1366" height="768" alt="web-creating location(Province)" src="https://github.com/user-attachments/assets/8730fbdc-d7fc-4237-8386-c796341e45e4" />
  
 ---
  
@@ -340,10 +335,7 @@ Replace this block with: ![locations-hierarchy](screenshots/locations-hierarchy.
  
 > *Screenshot showing a GET /api/users/{id} response where the user's location displays the full chain: Village → Cell → Sector → District → Province.*
  
-```
-[ 📷 PASTE SCREENSHOT HERE ]
-Replace this block with: ![user-full-location](screenshots/user-full-location.png)
-```
+<img width="1366" height="768" alt="web-getting a user by id with her full location" src="https://github.com/user-attachments/assets/a01eaaa6-66e5-4145-a492-53eb24e9f09a" />
  
 ---
  
@@ -351,10 +343,7 @@ Replace this block with: ![user-full-location](screenshots/user-full-location.pn
  
 > *Screenshot showing a GET /api/cars/{id} response including the car owner's details and their full location hierarchy.*
  
-```
-[ 📷 PASTE SCREENSHOT HERE ]
-Replace this block with: ![car-full-response](screenshots/car-full-response.png)
-```
+<img width="1366" height="768" alt="web-getting a car by UUID" src="https://github.com/user-attachments/assets/388189fa-dfe8-4fd0-bfed-647260fa9ffc" />
  
 ---
  
@@ -362,55 +351,46 @@ Replace this block with: ![car-full-response](screenshots/car-full-response.png)
  
 > *Screenshot showing GET /api/cars?page=0&size=10&sortBy=price&direction=asc with a paginated JSON response including `totalElements`, `totalPages`, and `numberOfElements`.*
  
-```
-[ 📷 PASTE SCREENSHOT HERE ]
-Replace this block with: ![pagination](screenshots/pagination.png)
-```
+<img width="1366" height="768" alt="web-Getting cars showing pagination" src="https://github.com/user-attachments/assets/2473261f-a8ce-4e39-a9d7-3f0d1f456347" />
  
 ---
  
 ### 5️⃣ `existsBy` Demonstration
  
 > *Screenshot showing the existsBy endpoints in action — for example GET /api/users/exists/email/{email} and GET /api/locations/exists/{code} returning `true` or `false`.*
- 
-```
-[ 📷 PASTE SCREENSHOT HERE ]
-Replace this block with: ![exists-by](screenshots/exists-by.png)
-```
- 
+
+Checking with the real information
+<img width="1366" height="768" alt="web-getting users showing existsBy endpoints" src="https://github.com/user-attachments/assets/df436ac1-1954-467a-98bd-3f3ebeb58376" />
+
+Checking with false information
+<img width="1366" height="768" alt="web-getting users users showing existsBy endpoints(False)" src="https://github.com/user-attachments/assets/f1b50472-1e32-4b81-ac33-e1a783d0a8cf" />
+
 ---
  
 ### 6️⃣ Users by Province — Code and Name
  
 > *Screenshot showing two requests: one using province code (e.g. `?province=P01`) and one using province name (e.g. `?province=Kigali City`), both returning matching users.*
  
-```
-[ 📷 PASTE SCREENSHOT HERE ]
-Replace this block with: ![users-by-province](screenshots/users-by-province.png)
-```
- 
+<img width="1366" height="768" alt="web-getting a user using province code" src="https://github.com/user-attachments/assets/dc2b19c2-c12e-4637-960d-3bcaa379649a" />
+
+ <img width="1366" height="768" alt="web-getting a user using a province name" src="https://github.com/user-attachments/assets/547b10f7-dbf8-4931-a28e-470042009414" />
+
 ---
  
 ### 7️⃣ Database Tables (pgAdmin or psql)
  
-> *Screenshot from pgAdmin or your PostgreSQL client showing the created tables: `locations`, `users`, `user_profiles`, `cars`, `categories`, `car_categories`, `inquiries`.*
+> *Screenshot from my PostgreSQL client showing the created tables: `locations`, `users`, `user_profiles`, `cars`, `categories`, `car_categories`, `inquiries`, as there are seven.*
  
-```
-[ 📷 PASTE SCREENSHOT HERE ]
-Replace this block with: ![database-tables](screenshots/database-tables.png)
-```
- 
+<img width="1366" height="768" alt="web-database tables" src="https://github.com/user-attachments/assets/cae7d182-4592-48a5-a108-140d34c2130c" />
+
 ---
  
 ### 8️⃣ Many-to-Many — Car with Multiple Categories
  
-> *Screenshot showing a POST /api/cars request body with multiple `categoryIds`, and the response showing the car linked to multiple categories.*
+> *Screenshot showing the response showing the car linked to multiple categories.*
  
-```
-[ 📷 PASTE SCREENSHOT HERE ]
-Replace this block with: ![many-to-many](screenshots/many-to-many.png)
-```
- 
+<img width="1366" height="768" alt="web-ManyToMany getting cars with many categories" src="https://github.com/user-attachments/assets/f17814cf-f73f-4ed3-a5a4-851300a5fb57" />
+
 ---
  
 ## 📐 Diagrams

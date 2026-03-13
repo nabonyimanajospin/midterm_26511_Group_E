@@ -449,7 +449,7 @@ Kabacuzi UUID:
     "id": "c20b18d3-e8ab-45f9-ae7f-e32259afb7c8",
     "code": "S19",
     "name": "Kabacuzi",
-    "type": "SECTOR"
+    "type": "SECTOR
 }
 
 Gasaka UUID:
@@ -1927,4 +1927,45 @@ ________
 
 
 
+ONE CAR TO MANY CATEGORIES
+___________________________
 
+
+{
+    "id": "15ab0ff5-3e06-42d1-bae6-5a40c8e9b32b",
+    "plateNumber": "RAL888F",
+    "brand": "Toyota",
+    "model": "Land Cruiser",
+    "year": 2021,
+    "price": 28000.00,
+    "mileage": 52000,
+    "status": "AVAILABLE",
+    "description": "SUV with pickup capability",
+    "ownerId": "4ac55738-7a59-4487-b806-ccdbc42a8d18",
+    "ownerFirstName": "Eric",
+    "ownerLastName": "Seller",
+    "ownerEmail": "eric.seller@example.com",
+    "ownerPhone": "+250780000003",
+    "categories": [
+        "SUV",
+        "Pickup"
+    ],
+    "location": {
+        "userId": "4ac55738-7a59-4487-b806-ccdbc42a8d18",
+        "villageId": "9faafdf0-1c6b-4a86-bb01-a4740be395dd",
+        "villageCode": "V15",
+        "villageName": "Ruganda",
+        "cellId": "0bb6322b-335a-4120-95fb-78053165739f",
+        "cellCode": "C15",
+        "cellName": "Cyohoha",
+        "sectorId": "b8bfa3d4-19b2-47e0-bb8f-ed3d84d57a84",
+        "sectorCode": "S15",
+        "sectorName": "Base",
+        "districtId": "e537aab1-2c8c-4129-a173-82d13ce0710f",
+        "districtCode": "D15",
+        "districtName": "Rulindo",
+        "provinceId": "f45fa5af-9493-4da9-a661-345dad25f865",
+        "provinceCode": "P03",
+        "provinceName": "Northern Province"
+    }
+}

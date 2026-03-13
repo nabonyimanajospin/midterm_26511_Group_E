@@ -357,7 +357,7 @@ I created resources in this exact order, as each step depends on the previous:
  
 ### 5️⃣ `existsBy` Demonstration
  
-> *Screenshot showing the existsBy endpoints in action — for example GET /api/users/exists/email/{email} and GET /api/locations/exists/{code} returning `true` or `false`.*
+> *Screenshot showing the existsBy endpoints in action — for example, GET /api/users/exists/email/{email} and GET /api/locations/exists/{code} returning `true` or `false`.*
 
 Checking with the real information
 <img width="1366" height="768" alt="web-getting users showing existsBy endpoints" src="https://github.com/user-attachments/assets/df436ac1-1954-467a-98bd-3f3ebeb58376" />
@@ -369,7 +369,7 @@ Checking with false information
  
 ### 6️⃣ Users by Province — Code and Name
  
-> *Screenshot showing two requests: one using province code (e.g. `?province=P01`) and one using province name (e.g. `?province=Kigali City`), both returning matching users.*
+> *Screenshot showing two requests: one using province code (e.g., `?province=P01`) and one using province name (e.g., `?province=Kigali City`), both returning matching users.*
  
 <img width="1366" height="768" alt="web-getting a user using province code" src="https://github.com/user-attachments/assets/dc2b19c2-c12e-4637-960d-3bcaa379649a" />
 
@@ -403,14 +403,13 @@ The following are the pictures showing the ERD Diagram and the Class diagram, re
 
 <img width="2290" height="1406" alt="Class diagram" src="https://github.com/user-attachments/assets/0c349c42-e95f-488f-b135-d7d83032877d" />
 
-The above shows more about the functionality of the project, how the relationships are, and how the flow is 
-To render them, use the [PlantUML online editor](https://www.plantuml.com/plantuml/uml/) or the PlantUML VS Code extension.
+The above shows more about the functionality of the project, how the relationships are, and how the flow is genarally!
  
 ---
  
 <div align="center">
  
-Made with ❤️ by **Jospin Nabonyimana** · Student ID: 26511
+Made by **Jospin Nabonyimana(26511)** with ❤️ for eductaion.
  
 *Adventist University of Central Africa · Web Technology and Internet*
  
